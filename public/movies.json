@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "The Shawshank Redemption",
+    "sinopse": "Em 1946, Andy Dufresne, um banqueiro jovem e bem sucedido, tem a sua vida radicalmente modificada ao ser condenado por um crime que nunca cometeu, o homicídio de sua esposa e do amante dela. Ele é mandado para uma prisão que é o pesadelo de qualquer detento, a Penitenciária Estadual de Shawshank, no Maine. Lá ele irá cumprir a pena perpétua. Andy logo será apresentado a Warden Norton, o corrupto e cruel agente penitenciário, que usa a Bíblia como arma de controle e ao Capitão Byron Hadley que trata os internos como animais. Andy faz amizade com Ellis Boyd Redding, um prisioneiro que cumpre pena há 20 anos e controla o mercado negro da instituição.",
+    "year": 1994,
+    "genre": "Drama",
+    "director": "Frank Darabont",
+    "poster": "https://image.tmdb.org/t/p/original/xSnM4ahmz692msbMTBsfBWHvR3M.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather",
+    "sinopse": "Em 1945, Don Corleone é o chefe de uma mafiosa família italiana de Nova York. Ele costuma apadrinhar várias pessoas, realizando importantes favores para elas, em troca de favores futuros. Com a chegada das drogas, as famílias começam uma disputa pelo promissor mercado. Quando Corleone se recusa a facilitar a entrada dos narcóticos na cidade, não oferecendo ajuda política e policial, sua família começa a sofrer atentados para que mudem de posição. É nessa complicada época que Michael, um herói de guerra nunca envolvido nos negócios da família, vê a necessidade de proteger o seu pai e tudo o que ele construiu ao longo dos anos.",
+    "year": 1972,
+    "genre": "Crime",
+    "director": "Francis Ford Coppola",
+    "poster": "https://image.tmdb.org/t/p/original/uP46DujkD3nwcisOjz9a0Xw0Knj.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "sinopse": "Após dois anos desde o surgimento do Batman, os criminosos de Gotham City têm muito o que temer. Com a ajuda do tenente James Gordon e do promotor público Harvey Dent, Batman luta contra o crime organizado. Acuados com o combate, os chefes do crime aceitam a proposta feita pelo Coringa e o contratam para combater o Homem-Morcego.",
+    "year": 2008,
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/original/4lj1ikfsSmMZNyfdi8R8Tv5tsgb.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pulp Fiction",
+    "sinopse": "Vincent Vega e Jules Winnfield são dois assassinos profissionais que trabalham fazendo cobranças para Marsellus Wallace, um poderosos gângster. Vega é forçado a sair com a garota do chefe, temendo passar dos limites. Enquanto isso, o pugilista Butch Coolidge se mete em apuros por ganhar uma luta que deveria perder.",
+    "year": 1994,
+    "genre": "Crime",
+    "director": "Quentin Tarantino",
+    "poster": "https://image.tmdb.org/t/p/original/tptjnB2LDbuUWya9Cx5sQtv5hqb.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "sinopse": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+    "year": 2001,
+    "genre": "Fantasy",
+    "director": "Peter Jackson",
+    "poster": "https://image.tmdb.org/t/p/original/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Inception",
+    "sinopse": "Um ladrão que rouba segredos corporativos por meio do uso da tecnologia de compartilhamento de sonhos, recebe a tarefa inversa de plantar uma ideia na mente de um Diretor Executivo.",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "poster": "https://image.tmdb.org/t/p/original/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "sinopse": "A princesa Leia é mantida refém pelas forças imperiais comandadas por Darth Vader. Luke Skywalker e Han Solo precisam libertá-la e restaurar a liberdade e a justiça na galáxia.",
+    "year": 1977,
+    "genre": "Sci-Fi",
+    "director": "George Lucas",
+    "poster": "https://image.tmdb.org/t/p/original/iSNdwFauC1QODm1ntk07wqJV1pf.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Matrix",
+    "sinopse": "Em um futuro próximo, Thomas Anderson (Keanu Reeves), um jovem programador de computador que mora em um cubículo escuro, é atormentado por estranhos pesadelos nos quais encontra-se conectado por cabos e contra sua vontade, em um imenso sistema de computadores do futuro. Em todas essas ocasiões, acorda gritando no exato momento em que os eletrodos estão para penetrar em seu cérebro. À medida que o sonho se repete, Anderson começa a ter dúvidas sobre a realidade. Por meio do encontro com os misteriosos Morpheus (Laurence Fishburne) e Trinity (Carrie-Anne Moss), Thomas descobre que é, assim como outras pessoas, vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas, criando a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia. Morpheus, entretanto, está convencido de que Thomas é Neo, o aguardado messias capaz de enfrentar o Matrix e conduzir as pessoas de volta à realidade e à liberdade.",
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "director": "The Wachowskis",
+    "poster": "https://image.tmdb.org/t/p/original/qFHE09iQDbpHUBXJ8cFZu9v2ViO.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Goodfellas",
+    "sinopse": "A história de Henry Hill e sua vida na máfia, cobrindo seu relacionamento com sua esposa Karen e seus parceiros mafiosos Jimmy Conway e Tommy DeVito.",
+    "year": 1990,
+    "genre": "Crime",
+    "director": "Martin Scorsese",
+    "poster": "https://image.tmdb.org/t/p/original/lanYBnyCcqkaFqz66B8PrBRCtCW.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Fight Club",
+    "sinopse": "Um homem deprimido que sofre de insônia conhece um estranho vendedor de sabonetes chamado Tyler Durden. Eles formam um clube clandestino com regras rígidas onde lutam com outros homens cansados de suas vidas mundanas. Mas sua parceria perfeita é comprometida quando Marla chama a atenção de Tyler.",
+    "year": 1999,
+    "genre": "Drama",
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/original/r3pPehX4ik8NLYPpbDRAh0YRtMb.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Parasite",
+    "sinopse": "No futuro de 1992, após a Terceira Guerra Mundial, o cientista Paul Dean desenvolve um estranho parasita canibal que, num acidente, acaba entrando dentro do seu próprio corpo, onde passa a crescer. Perseguido por um agente do governo que quer recuperar o parasita, o cientista-hospedeiro passa a fugir de cidade em cidade em busca de uma cura capaz de destruir o monstro sem causar dano a si mesmo.",
+    "year": 2019,
+    "genre": "Drama, Thriller",
+    "director": "Bong Joon-ho",
+    "poster": "https://image.tmdb.org/t/p/original/krhU4toMvIVgZXZIyrlpuW1DwP9.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Schindler's List",
+    "sinopse": "O alemão Oskar Schindler viu na mão de obra judia uma solução barata e viável para lucrar com negócios durante a guerra. Com sua forte influência dentro do partido nazista, foi fácil conseguir as autorizações e abrir uma fábrica. O que poderia parecer uma atitude de um homem não muito bondoso, transformou-se em um dos maiores casos de amor à vida da História, pois este alemão abdicou de toda sua fortuna para salvar a vida de mais de mil judeus em plena luta contra o extermínio alemão.",
+    "year": 1993,
+    "genre": "Drama Histórico",
+    "director": "Steven Spielberg",
+    "poster": "https://image.tmdb.org/t/p/original/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Spirited Away",
+    "sinopse": "Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam em porcos. Agora, apenas Chihiro pode salvá-los",
+    "year": 2001,
+    "genre": "Animação, Fantasia",
+    "director": "Hayao Miyazaki",
+    "poster": "https://image.tmdb.org/t/p/original/hhoKhsyJ3hFaxEm5pMdZRiTu2lJ.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Silence of the Lambs",
+    "sinopse": "Clarice Starling, uma das melhores estudantes da academia de treinamento do FBI. Jack Crawford quer que Clarice entreviste o Dr. Hannibal Lecter, um psiquiatra brilhante e também um psicopata violento, que cumpre prisão perpétua por vários atos de assassinato e canibalismo. Crawford acredita que Lecter pode ter uma visão em um caso e que Starling, como uma mulher jovem e atraente, pode ser a isca para atraí-lo.",
+    "year": 1991,
+    "genre": "Thriller, Horror",
+    "director": "Jonathan Demme",
+    "poster": "https://image.tmdb.org/t/p/original/paGUSTwcFrAxpGV1hSQ2wsI28id.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Seven Samurai",
+    "sinopse": "No século XVI, durante a era Sengoku, quando os poderosos samurais de outrora estavam com os dias contados, pois eram agora desprezados pelos seus aristocráticos senhores. Kambei (Takashi Shimura), um guerreiro veterano sem dinheiro, chega em uma aldeia indefesa que foi saqueada repetidamente por ladrões assassinos. Os moradores do vilarejo pedem sua ajuda, fazendo com que Kambei recrute seis outros ronins (samurais sem mestre), que concordam em ensinar os habitantes como devem se defender em troca de comida. Os aldeões dão boas-vindas aos guerreiros e algumas relações começam. Katsushiro (Ko Kimura) se apaixona por uma das mulheres locais, embora os outros ronins mantenham distância dos camponeses. O último dos guerreiros que chega é Kikuchio (Toshiro Mifune), que finge estar qualificado mas na realidade é o filho de um camponês que almeja aceitação.",
+    "year": 1954,
+    "genre": "Ação, Drama",
+    "director": "Akira Kurosawa",
+    "poster": "https://image.tmdb.org/t/p/original/telXEMxGtJvffm5JDsx1rQzwWlf.jpg"
+  },
+  {
+    "id": 16,
+    "title": "The Grand Budapest Hotel",
+    "sinopse": "No período entre as duas guerras mundiais, o famoso gerente de um hotel europeu conhece um jovem empregado e os dois tornam-se melhores amigos. Entre as aventuras vividas pelos dois, constam o roubo de um famoso quadro do Renascimento, a batalha pela grande fortuna de uma família e as transformações históricas durante a primeira metade do século XX.",
+    "year": 2014,
+    "genre": "Comédia, Drama",
+    "director": "Wes Anderson",
+    "poster": "https://image.tmdb.org/t/p/original/yabOguSrb8ffUXCkI6t8Rw7xtSh.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Mad Max: Fury Road",
+    "sinopse": "Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.",
+    "year": 2015,
+    "genre": "Ação, Ficção Científica",
+    "director": "George Miller",
+    "poster": "https://image.tmdb.org/t/p/original/mtgqrSlT47VsmeMVanLTny7BknB.jpg"
+  },
+  {
+    "id": 18,
+    "title": "The Social Network",
+    "sinopse": "Uma história surpreendente sobre uma nova raça de rebeldes culturais: um gênio que deflagrou uma revolução e mudou a cara da interação humana de toda uma geração, uma mudança que talvez perdure para sempre. Filmado com brutalidade emocional e humor inesperado, este filme soberbamente elaborado faz uma crônica sobre a criação do Facebook e sobre as batalhas relativas à sua propriedade após o imenso sucesso do site.",
+    "year": 2010,
+    "genre": "Drama Biográfico",
+    "director": "David Fincher",
+    "poster": "https://image.tmdb.org/t/p/original/o8Y4YbPiV7TCNCEPJKv8AKTe2Gl.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Her",
+    "sinopse": "Em um futuro próximo, um escritor solitário desenvolve um relacionamento improvável com um sistema operacional projetado para atender todas as suas necessidades.",
+    "year": 2013,
+    "genre": "Drama, Romance",
+    "director": "Spike Jonze",
+    "poster": "https://image.tmdb.org/t/p/original/gqerDpdAJiH1IEVnoo4vBVROECq.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Moonlight",
+    "sinopse": "Moonlight narra a vida de um jovem gay afro-americano, desde a infância até a vida adulta e sua luta para encontrar seu lugar no mundo enquanto cresce num bairro violento de Miami. Ao mesmo tempo um retrato essencial da vida contemporânea do afro-americano e uma reflexão intensa, pessoal e poética sobre identidade, família e amizade. A direção de Barry Jenkins traz sua visão única e profundamente comovente sobre o caleidoscópio de momentos, pessoas e forças desconhecidas que determinam nossas vidas e nos fazem ser quem somos.",
+    "year": 2016,
+    "genre": "Drama",
+    "director": "Barry Jenkins",
+    "poster": "https://image.tmdb.org/t/p/original/AekOkoT88EhDHikUQXQcKri2q4B.jpg"
+  }
+]
